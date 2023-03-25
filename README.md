@@ -4,7 +4,7 @@
 
 <hr>
 
-<img align="right" alt="coding" width="270" src="https://i.pinimg.com/originals/b4/40/fe/b440fe8b087416820258b711b91ca18a.gif">
+<img align="right" alt="coding" width="270" src="https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif">
 
 - I’m currently a 3rd year Universiti Teknologi Malaysia student studying **Bachelor in Computer Science (Data Eng)**
 - I'll love to learn and explore new skills
