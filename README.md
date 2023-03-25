@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rishma</h1>
-<h3 align="center">Data Engineering Student</h3>
+<h1 align="center">Hi, I'm Rishma  👋</h1>
+<h3 align="center">Data Engineer</h3>
 
-- I’m currently a 3rd year Universiti Teknologi Malaysia student, **Bachelor in Computer Science (Data Eng)**
+<img align="right" alt="coding" width="270" src="https://i.pinimg.com/originals/b4/40/fe/b440fe8b087416820258b711b91ca18a.gif">
+
+- I’m currently a 3rd year Universiti Teknologi Malaysia student studying **Bachelor in Computer Science (Data Eng)**
 
 - 📫 Contact me via **rishmafathima31@gmail.com**
 
