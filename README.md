@@ -8,7 +8,7 @@
 
 - I’m currently a Universiti Teknologi Malaysia graduate of **Bachelor in Computer Science (Data Engineering)**
 - I'll love to learn and explore new skills
-- 📫 Contact me via **rishmafathima31@gmail.com**
+- 📫 Contact me via **rishmafathima001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
