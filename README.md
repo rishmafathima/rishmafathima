@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/rishmafathima/rishmafathima/blob/5ab54e9fbd97424ecd2a557146f270207b3efd8d/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
 <h1 align="center">Hi, I'm Rishma  👋</h1>
