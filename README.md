@@ -1,5 +1,5 @@
 ![logo](https://github.com/rishmafathima/rishmafathima/blob/edeefb066f99f7c9c98cbfc21e8d1f4872d0b285/Rishma's%20github%20banner.jpg)
-![logo]([https://github.com/rishmafathima/rishmafathima/blob/edeefb066f99f7c9c98cbfc21e8d1f4872d0b285/Rishma's%20github%20banner.jpg](https://github.com/rishmafathima/rishmafathima/blob/5ab54e9fbd97424ecd2a557146f270207b3efd8d/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner(1).png))
+![logo](https://github.com/rishmafathima/rishmafathima/blob/5ab54e9fbd97424ecd2a557146f270207b3efd8d/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner(1).png)
 
 <h1 align="center">Hi, I'm Rishma  👋</h1>
 <h3 align="center">Artificial Intelligence | Data Engineer</h3>
