@@ -1,12 +1,13 @@
 ![logo](https://github.com/rishmafathima/rishmafathima/blob/edeefb066f99f7c9c98cbfc21e8d1f4872d0b285/Rishma's%20github%20banner.jpg)
 <h1 align="center">Hi, I'm Rishma  👋</h1>
-<h3 align="center">Your Data Engineer</h3>
+<h3 align="center">Artificial Intelligence | Data Engineer</h3>
 
 <hr>
 
 <img align="right" alt="coding" width="270" src="https://media.tenor.com/mhLPO2VldCkAAAAM/0001.gif">
 
-- I’m currently a Universiti Teknologi Malaysia graduate of **Bachelor in Computer Science (Data Engineering)**
+- **Masters in Artificial Intteligence**
+- **Bachelor in Computer Science (Data Engineering)**
 - I'll love to learn and explore new skills
 - 📫 Contact me via **rishmafathima001@gmail.com**
 
